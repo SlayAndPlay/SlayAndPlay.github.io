@@ -1,0 +1,199 @@
+{
+  "name": "Christian Perez",
+  "label": "Support Engineer",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "christian@perezfamily.dev",
+    "phone": "",
+    "location": "New York Metropolitan Area"
+  },
+  "summary": "Experienced IT professional. Skilled in many areas of troubleshooting, scripting, software development, systems administration and management of assets across many technologies.",
+  "url": "https://perezfamily.dev",
+  "social_links": [
+    {
+      "label": "Linkedin",
+      "url": "https://www.linkedin.com/in/chrisperez908",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/aloofchico",
+      "svg_path": "img/instagram.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/SlayAndPlay",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "MIllennium Management LLC",
+      "position": "Support Engineer",
+      "url": "https://www.mlp.com/",
+      "start_date": "2024",
+      "end_date": "Present",
+      "summary": "Resolving technical issues for the firm and its clients. Working with a team of engineers to provide support for all aspects of the firm's technology stack.",
+      "highlights": [
+        "Windows, Linux, user accounts, mobile, and trading environments troubelshooting.",
+        "Citrix remote virtual machine monitoring and troubleshooting",
+        "Wrote scripts in Powershell to automate AD group membership audit reports."
+      ]
+    },
+    {
+      "company": "Hudson River Trading",
+      "position": "IT Operations Engineer",
+      "url": "https://www.hudsonrivertrading.com/",
+      "start_date": "2023",
+      "end_date": "2024",
+      "summary": "Systems Administrator and team lead for US region.",
+      "highlights": [
+        "Administration of Google Workspace, Jira, Active Directory, Zoom, Okta, OpenStack and Slack.",
+        "Owned user account and hardware onboarding process for US region",
+        "Wrote script in Bash to automate user information collection and group management in Linux."
+      ]
+    },
+    {
+      "company": "Infor Global Solutions",
+      "position": "IT Field Support Engineer",
+      "url": "https://www.infor.com/",
+      "start_date": "2022",
+      "end_date": "2023",
+      "summary": "Level 1 and 2 support for Infor core employees and EVIP employees. MacOS technician",
+      "highlights": [
+        "Supported Windows, Linux, and macOS workstations across the organization.",
+        "Wrote script in Python and Bash for improving user account integrity in macOS.",
+        "Handled Active Directory / Windows Server tickets which include managing user’s permissions, group management, group policy management, file server creation, etc."
+      ]
+    },
+    {
+      "company": "Amazon Web Services",
+      "position": "Technical Support Associate",
+      "url": "https://aws.amazon.com/",
+      "start_date": "2021",
+      "end_date": "2022",
+      "summary": "Level 1 and 2 support for AWS employees.",
+      "highlights": [
+        "Administration and support of Windows Server AD, DFS, Print Services, and SCCM.",
+        "Wrote batch script to automate Slack hardware acceleration disabling.",
+        "Improved technical support request process to no longer cause conflicts when users with the same name would call."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Secure Token Manager",
+      "summary": "An app written in Python and Bash for enabling secure token in macOS, thereby improving system integrity and allowing for encryption of user data.",
+      "url": "https://github.com/SlayAndPlay/secureTokenManager",
+      "highlights": ["Deployed to over 1000 devices in the organization."],
+      "images": [
+        {
+          "img_path": "portfolio_media/secure1.png",
+          "caption": "Written to improve security of macOS fleet."
+        },
+        {
+          "img_path": "portfolio_media/secure2.png",
+          "caption": "Written with Python and Bash"
+        }
+      
+      ]
+    },
+    {
+      "title": "Aliens Down",
+      "summary": "A space invaders inspired game written in Python that utilizes the Pygame library and physics for collision.",
+      "url": "https://github.com/SlayAndPlay/Aliens_Down",
+      "highlights": ["Pick up and play game."],
+      "images": [
+        {
+          "img_path": "portfolio_media/aliens1.png",
+          "caption": "Gameplay"
+        },
+        {
+          "img_path": "portfolio_media/aliens2.png",
+          "caption": "Pygame"
+        }
+      ]
+    },
+    {
+      "title": "Portfolio Website",
+      "summary": "A portfolio website built using HTML, CSS, and JavaScript. It showcases my work experience, projects, and skills.",
+      "url": "https://perezfamily.dev",
+      "highlights": ["Responsive design for mobile and desktop."],
+      "images": [
+        {
+          "img_path": "portfolio_media/portfolio1.png",
+          "caption": "Compatible with mobile devices."
+        },
+        {
+          "img_path": "portfolio_media/portfolio2.png",
+          "caption": "Hosted on Github Pages."
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Union County Library System",
+      "position": "ESL Teacher",
+      "url": "https://www.plainfieldlibrary.info/",
+      "start_date": "2013",
+      "end_date": "2014",
+      "summary": "Taught English as a second language to adults and children. Graded homework and provided feedback.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rutgers University",
+      "location": "Newark, NJ",
+      "url": "https://rutgers.edu",
+      "degrees": [
+        "Bachelor of Science in Management Information Systems"
+      ],
+      "honors": [
+        "2018 President's List",
+        "2017 Dean's List",
+        "Placed in the top 10% of the class",
+        "Red Hat Certified System Administrator (RHCSA)"
+      ],
+      "gpa_cumulative": "3.72",
+      "gpa_major": "3.90",
+      "graduation_date": "2018"
+    }
+  ],
+  "skills": [
+    {
+      "name": "System Administration, Windows",
+      "proficiency": 80,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "System Administration, Linux",
+      "proficiency": 80,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Python, Bash, and Powershell Scripting",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Traveling",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/travel1.jpg",
+          "caption": "Enjoying the view in the Caribbeans"
+        },
+        {
+          "img_path": "portfolio_media/travel2.png",
+          "caption": "Taking a boat ride in the Atlantic"
+        }
+      ]
+    }
+  ],
+  "languages": [],
+  "references": []
+}
